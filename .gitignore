@@ -13,6 +13,7 @@ butterfly-10/input/
 ants-bees-resnet50/input/
 fashion-cnn/input/
 fish-resnet/input/
+data/
 
 # Distribution / packaging
 .Python
