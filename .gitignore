@@ -9,6 +9,10 @@ __pycache__/
 # Image datasets
 */train/
 */val/
+butterfly-10/input/
+ants-bees-resnet50/input/
+fashion-cnn/input/
+fish-resnet/input/
 
 # Distribution / packaging
 .Python
