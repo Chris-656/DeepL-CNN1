@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Image datasets
-train/*
-val/*
+*/train/
+*/val/
 
 # Distribution / packaging
 .Python
